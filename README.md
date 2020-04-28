@@ -7,4 +7,5 @@
 ### In another window or computer (depending on your server setup) 
 ### run two instances of ```` MemoryClient.py```` *make  sure ``` NetworkAssistant.py``` contains the correct information (HOST/PORT)
 
-#### *Note the folder pyIgnitionAlpha was not made by me, its a dependency that I downloaded and modified accordingly
+##### *Play in Online Mode (offline not supported yet)
+##### *Note the folder pyIgnitionAlpha was not made by me, its a dependency that I downloaded and modified accordingly
